@@ -1,0 +1,6 @@
+admin1 sonatel@2024
+admin2 sonatel@2024
+admin3 sonatel@2024
+admin4 sonatel@2024
+admin5 sonatel@2024
+admin6 sonatel@2024
